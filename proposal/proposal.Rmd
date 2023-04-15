@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: 19080415, [Github Repo](https://github.com/Buharas/19080415.git)
+[^1]: 19080415, [Github Repo](https://github.com/Buharas/19080415)
 
 
 
@@ -49,9 +49,6 @@ Innovation has more importance for education, the sector of education has been d
 
 
 
-**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
-
-**_You shouldn't delete the last 3 lines. Those lines are required for References section._**
 
 \newpage
 # References {#references}
