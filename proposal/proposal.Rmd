@@ -1,0 +1,59 @@
+---
+title: "An Examination of Innovation Practices in Different Sectors and Subcategories in Turkey."
+author: 
+  - Sayıl, Buhara[^1]
+bibliography: ../bibliography/biblio.bib
+csl: ../csl/apa.csl
+header-includes:
+  - \usepackage{polyglossia}
+  - \setmainlanguage{english}
+  - \usepackage{booktabs}
+  - \usepackage{caption} 
+  - \captionsetup[table]{skip=10pt}
+output:
+  bookdown::pdf_document2:
+    fig_caption: yes
+    fig_height: 3
+    fig_width: 4
+    keep_tex: no
+    latex_engine: xelatex
+    number_sections: yes
+    toc: no
+geometry: margin=1in
+link-citations: yes
+urlcolor: blue
+fontsize: 12pt
+biblio-style: apalike
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+<!-- ======================================================================= -->
+<!-- ============================== FOOTNOTES ============================== -->
+<!-- ======================================================================= -->
+[^1]: 19080415, [Github Repo](https://github.com/Buharas/19080415.git)
+
+
+
+# Introduction
+Our world is developing and change everytime, arise to new technologies and, sectors day by day. Thanks to evolving technologies, made innovative perspectives more decisive. Innovation is a neccesatiy for modern World. Innovation has been created new areas in the business life. The areas have pioneered to welfare and public interest with economically growth. As an example of this, we can give the innovations that took place after the discovery of the internet, the use of artificial intelligence in today's conditions after so long after the discovery of the internet is one of the indicators of how open to change innovation is in the process. Another issue that needs to be addressed is the concept of innovation is confused with the concepts of invention. Among them have similarity but, both are certainly no same concept. while invention have been existed is the creation of a product that never existed, innovation has been the development or transformation of an existing product. We can give an example of the relationship between these concepts through the sewing machine, Elias Howe invented the sewing machine but did not turn it into innovation. Isaac Singer, on the other hand, turned the sewing machine into a brand and sold his product under the Singer brand all over the world. In doing so, he used Howe "s sewing machine patent. [@taş:2016]. Research studies also have a very important place in innovation. Called R&D research and development has based on a process for innovation. Nevertheless, innovation is not an activity of R&D. [@taş:2016]. This study will examine to activity of innovation in Türkiye in terms of sectors, and activity of innovation divided to subtitles for to pass judgement. In this research, previous research and studies in the field of innovation have been utilised. These sources are as follows:[@taş:2016; @arslanhan:2010; @murat:2020; @hamel:2006]
+
+
+## Literature Review
+
+Innovation has more importance for education, the sector of education has been developed thanks to innovation. The sector of education has point of importance for welfare, development of countries and, financial growth. according to the article of [@taş:2016] can only be realised through innovations in education. In this transformation, it is very important to know the country's place in the Global Innovation Index (GIE). [@taş:2016]. 
+"S. Korea has managed to become a country that attracts a lot of attention with its success in economic development and its striking development in the fields of innovation and R&D. The article of [@arslanhan:2010] Korea, which was ranked below Turkey in terms of GDP per capita and expenditures on R&D activities until the 1980s, managed to completely reverse this trend in the 1980s and achieved a significant growth as well as a significant technological development." and mentioned the effect of innovation in the development of South Korea.
+ [@murat:2020] stated in her article that R&D and innovation are different for innovation with the following statements:  "Certain innovation activities are inherently innovative, while others are not novel but considered necessary for innovation. Innovation includes R&D, even it is not directly associated with the development of a specific innovation". 
+[@hamel:2006] explained in his article why innovation is necessary and the importance of innovation management with examples.In the literature review, the views of researchers in the field of innovation are reflected through quotations from some of the sources to be used in the study, the sources used in this field are as follows [@taş:2016; @arslanhan:2010; @murat:2020; @hamel:2006].
+
+
+
+**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
+
+**_You shouldn't delete the last 3 lines. Those lines are required for References section._**
+
+\newpage
+# References {#references}
+<div id="refs"></div>
+
